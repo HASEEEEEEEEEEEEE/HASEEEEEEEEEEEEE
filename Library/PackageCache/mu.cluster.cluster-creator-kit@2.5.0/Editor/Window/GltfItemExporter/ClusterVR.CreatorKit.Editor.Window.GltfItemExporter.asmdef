@@ -1,0 +1,27 @@
+{
+    "name": "ClusterVR.CreatorKit.Editor.Window.GltfItemExporter",
+    "references": [
+        "ClusterVR.CreatorKit.Item",
+        "ClusterVR.CreatorKit.Item.Implements",
+        "ClusterVR.CreatorKit.Editor",
+        "Unity.net.yutopp.vgltf",
+        "Unity.net.yutopp.vgltf.unity",
+        "ClusterVR.CreatorKit.Editor.Api",
+        "ClusterVR.CreatorKit.Editor.Validator.GltfItemExporter",
+        "ClusterVR.CreatorKit.Editor.ItemExporter",
+        "ClusterVR.CreatorKit.ItemExporter",
+        "ClusterVR.CreatorKit.AccessoryExporter",
+        "ClusterVR.CreatorKit.Editor.AccessoryExporter"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
